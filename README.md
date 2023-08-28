@@ -1,4 +1,4 @@
-# COVID Data Analysis Portfolio Project
+# COVID Data Analysis
 
 This project is aimed to perform comprehensive data analysis on COVID-19 mortality and vaccination rates. The data has been sourced from Our World in Data. Through this portfolio, I aim to showcase my analytical and SQL skills to draw meaningful insights from the data.
 
